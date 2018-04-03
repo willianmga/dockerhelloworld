@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2ee25a82-caae-44af-85ee-a2c1d9eb367a" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/docker/docker-compose.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/helloworldspringboot/HelloWorldSpringBootApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/helloworldspringboot/rest/HelloWorldRestController.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/helloworldspringboot.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/target/helloworldspringboot.jar.original" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/helloworldspringboot/HelloWorldSpringBootApplicationTests.class" afterPath="" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/helloworldspringboot/HelloWorldSpringBootApplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/dockerhelloworld/DockerHelloWorldApplication.java" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/helloworldspringboot/rest/HelloWorldRestController.java" afterPath="$PROJECT_DIR$/src/main/java/com/dockerhelloworld/rest/HelloWorldRestController.java" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/com/helloworldspringboot/HelloWorldSpringBootApplicationTests.java" afterPath="$PROJECT_DIR$/src/test/java/com/dockerhelloworld/DockerHelloWorldApplicationTests.java" />
@@ -318,12 +321,12 @@
       <workItem from="1521918831168" duration="3724000" />
       <workItem from="1522523161791" duration="1419000" />
       <workItem from="1522760454664" duration="2000" />
-      <workItem from="1522760499408" duration="1559000" />
+      <workItem from="1522760499408" duration="1600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12169000" />
+    <option name="totallyTimeSpent" value="12210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1415" y="18" width="1551" height="882" extended-state="6" />
@@ -336,10 +339,10 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.84076434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.84076434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276923" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50063694" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50063694" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2173625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
