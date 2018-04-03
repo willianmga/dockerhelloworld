@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk-alpine
 
-ADD target/helloworldspringboot.jar helloworldspringboot.jar
+ADD target/dockerhelloworld.jar dockerhelloworld.jar
 
-ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/helloworldspringboot.jar"]
+ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/dockerhelloworld.jar"]

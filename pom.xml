@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.providence</groupId>
-	<artifactId>hello-world-springboot</artifactId>
+	<groupId>me.wazevedo</groupId>
+	<artifactId>dockerhelloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>hello-world-springboot</name>
-	<description>Springboot hello world REST Api</description>
+	<name>dockerhelloworld</name>
+	<description>Docker hello world project with Springboot REST Api</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -42,7 +42,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>helloworldspringboot</finalName>
+		<finalName>dockerhelloworld</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
